@@ -32,7 +32,7 @@ I will explain different _**folders**_ and _**files**_ available in this reposit
 
 - ### The folder `MODULES` has three `.py` files: `ATTEND.py`, `DENOISING_DIFFUSION_PYTORCH.py`, and `__init__.py`. `ATTEND.py` stores some helper functions. `DENOISING_DIFFUSION_PYTORCH.py` offers the building blocks required to construct the DDPM architecture. `__init__.py` is an empty file.
 
-Finally, `inception_score.ipynb` shows the code for calculating the inception score using images geenrated with all the schedulers (`linear`, `cosine`, and `sigmoid`).
+Finally, `Inception_Score.ipynb` shows the code for calculating the inception score using images geenrated with all the schedulers (`linear`, `cosine`, and `sigmoid`).
 
 >> We haven't been able to provide the following things:
 
