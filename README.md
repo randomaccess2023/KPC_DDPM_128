@@ -46,6 +46,6 @@ Finally, `Inception_Score.ipynb` shows the code for calculating the inception sc
 
 >> These 7 _files_ and _directories_ are too big and can't be shared in GitHub due to the limitations it has.
 
-## This repository uses MIT License. Read the terms and conditions from _LICENSE_ text file.
+## This repository uses `MIT License`. Read the terms and conditions from _LICENSE_ text file.
 
 # Read the conference paper from here: [KPC_DDPM](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13664/136643E/Denoising-diffusion-probabilistic-model-for-generating-histopathology-images/10.1117/12.3070575.short).
