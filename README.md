@@ -1,6 +1,6 @@
 # Denoising Diffusion Probabilistic Model for Generating Histopathology Images
 
-The source code for the conference paper designated _**Denoising Diffusion Probabilistic Model for generating Histopathology Images**_ has been shared in this GitHub repository.
+The source code for the conference paper designated _**Denoising Diffusion Probabilistic Model for Generating Histopathology Images**_ has been shared in this GitHub repository.
 
 I will explain different _**folders**_ and _**files**_ available in this repository concisely to make things easy for the users.
 
